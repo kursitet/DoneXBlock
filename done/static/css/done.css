@@ -45,14 +45,14 @@
 }
 
 .done_onoffswitch-inner:after {
-    content: "Mark as complete";
+    content: "Отметить как пройденное";
     background-color: #666;
     background-image: linear-gradient(rgb(125, 125, 125), rgb(75, 75, 75));
     color: #fff;
     text-align: center;
 }
 .done_onoffswitch-inner:before {
-    content: "Completed";
+    content: "Пройдено";
     padding-right: 90px;
     background-color: #696;
     background-image: linear-gradient(rgb(100, 175, 125), rgb(50, 125, 75));
