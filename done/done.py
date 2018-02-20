@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """ Show a toggle which lets students mark things as done."""
 
 from __future__ import unicode_literals
